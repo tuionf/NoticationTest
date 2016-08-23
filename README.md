@@ -50,4 +50,4 @@
                 builder.setContentIntent(pendingIntent);
                 
 #  演示                 
- ![enter description here][1]               
+ ![enter description here][https://github.com/tuionf/NoticationTest/blob/master/app/src/main/res/drawable/yanshi.gif]               
