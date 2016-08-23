@@ -1,6 +1,6 @@
 # NoticationTest
 # 通知的基本布局
-![enter description here][1]
+![enter description here](https://github.com/tuionf/NoticationTest/blob/master/app/src/main/res/drawable/notifications_pattern_anatomy.png)
 
 在默认情况下，Notification仅显示消息标题、消息内容、送达时间这3项内容
 
@@ -50,4 +50,4 @@
                 builder.setContentIntent(pendingIntent);
                 
 #  演示                 
- ![enter description here][https://github.com/tuionf/NoticationTest/blob/master/app/src/main/res/drawable/yanshi.gif]               
+ ![enter description here](https://github.com/tuionf/NoticationTest/blob/master/app/src/main/res/drawable/yanshi.gif)              
